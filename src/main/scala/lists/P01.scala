@@ -13,5 +13,4 @@ object P01 {
   def getLast[A](list: List[A]) : A = {
     list.last
   }
-
 }
